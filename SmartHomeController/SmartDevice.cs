@@ -44,12 +44,12 @@ namespace SmartHomeController
 
         }
 
-        public void TurnOff()
+        public virtual void TurnOff()
         {
 
         }
 
-        public void GetStatus()
+        public virtual void GetStatus()
         {
 
         }
