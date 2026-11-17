@@ -23,7 +23,7 @@ namespace SmartHomeController
             get { return colour; }
             set { colour = value; }
         }
-
+        
         // Parameterised constructor & base class information
         public SmartLight(
             double smartLightBrightness, 
